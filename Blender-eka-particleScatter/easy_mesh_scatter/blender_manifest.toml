@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "eka_particle_scatter"
+version = "1.2.0"
+name = "eka-particleScatter"
+tagline = "Scatter objects on meshes with paintable masks"
+maintainer = "AIOps"
+type = "add-on"
+
+tags = ["Object"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
