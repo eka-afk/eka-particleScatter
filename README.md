@@ -4,7 +4,7 @@ eka-particleScatter is a Blender 4.2+ add-on for scattering an object, or random
 
 ## Interface
 
-![eka-particleScatter Blender sidebar](docs/eka-particleScatter-ui.png)
+![eka-particleScatter Blender sidebar](Blender-eka-particleScatter/docs/eka-particleScatter-ui.png)
 
 ## Features
 
@@ -51,7 +51,7 @@ For smooth gradients, click **Paint Density** and paint with Blender's Weight Pa
 
 For precise mesh regions, click **Edit Weights**. Select vertices, edges, or faces in Edit Mode, set **Density Weight**, then click **Assign to Selected**. The **Blue 0**, **Mid 0.5**, and **Red 1** buttons provide quick values. Click **Finish Editing** when done. **Invert** swaps high- and low-density areas.
 
-![Density mask editing in Blender](docs/eka-particleScatter-density-mask.png)
+![Density mask editing in Blender](Blender-eka-particleScatter/docs/eka-particleScatter-density-mask.png)
 
 ## Rendering Notes
 
